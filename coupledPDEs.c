@@ -1,8 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <math.h> //T. 1. Included math.h library
+#include <math.h>
 
-// The following line does not contain a bug.
 void read_input(double *C, double *gamma, double *L, int *nx, double *t_F, double *t_out);
 
 int main(void)
@@ -24,7 +23,7 @@ int main(void)
   double poutput_timestep = 0;
   // Read in from file;
   read_input(&pC, &pgamma, &pL, &pnx, &pt_F, &poutput_timestep);
-  //T. 2. Fixed Pointer behaviour with & operators
+  
   // Get data from pointers
   double C = pC;
   double gamma = pgamma;
