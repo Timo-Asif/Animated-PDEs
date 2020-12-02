@@ -8,7 +8,7 @@ To tackle this, I first looked at MATLAB to try quickly plot my results using 3D
 
 Since I had more experience creating visualisations within Python, I looked into creating some animated GIFs. I found that the `matplotlib.Animation` was a very good fit for my problem as I could control what goes into each frame of my animation due to how my output files are set up.
 
-Full problem formulation located on `Animation.ipynb` Jupyter Notebook. Open on Google Colab to ensure full LaTeX rendering of formulas.
+Full problem formulation located on the `Animation.ipynb` Jupyter Notebook. Open on Google Colab to ensure full LaTeX rendering of formulas.
 
 ## Examples
 
