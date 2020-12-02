@@ -11,14 +11,14 @@ Since I had more experience creating visualisations within Python, I looked into
 ## Examples
 
 ### Low Gamma Solution
-![Alt Text](https://github.com/Timo-Asif/Animated-PDEs/blob/main/Low%20Gamma.gif?raw=true)
+![Alt Text](https://github.com/Timo-Asif/Animated-PDEs/blob/main/Examples/Low%20Gamma.gif?raw=true)
 
 ### High Gamma Solution
-![Alt Text](https://github.com/Timo-Asif/Animated-PDEs/blob/main/High%20Gamma.gif?raw=true)
+![Alt Text](https://github.com/Timo-Asif/Animated-PDEs/blob/main/Examples/High%20Gamma.gif?raw=true)
 
 ### Slow Transport Solution
-![Alt Text](https://github.com/Timo-Asif/Animated-PDEs/blob/main/Slow%20Transport.gif?raw=true)
+![Alt Text](https://github.com/Timo-Asif/Animated-PDEs/blob/main/Examples/Slow%20Transport.gif?raw=true)
 
 ### Fast Transport Solution
-![Alt Text](https://github.com/Timo-Asif/Animated-PDEs/blob/main/Fast%20Transport.gif?raw=true)
+![Alt Text](https://github.com/Timo-Asif/Animated-PDEs/blob/main/Examples/Fast%20Transport.gif?raw=true)
 
