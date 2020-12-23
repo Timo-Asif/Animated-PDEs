@@ -126,7 +126,7 @@ int main(void)
       V_next[j] = V[j] - dt * gamma * (V[j] - U[j]);
     }
 
-    /*{ Efficiently move values at next timestep to current timestep arrays by swapping pointers }*/
+    /* Efficiently move values at next timestep to current timestep arrays by swapping pointers */
     double *tmp;
     tmp = V_next;
     V_next = V;
